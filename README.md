@@ -9,7 +9,3 @@ Currently working on AI-native development workflows — using Claude Code, know
 **Open source**
 
 - [**Sarthi**](https://github.com/rahulbindra/sarthi) — An intent-routing layer for Claude Code. Detects what you're trying to do and routes to the right tool automatically. Named after the Sanskrit word for charioteer.
-
----
-
-📬 rahulbindra@gmail.com
